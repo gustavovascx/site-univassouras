@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul { 
+    display: flex;
+    justify-content:flex-start
+       
+}
+
+body img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: solid 5px #993399;
+    
+}
+
+header div {
+    align-items: center;
+}
